@@ -1,0 +1,11 @@
+.erro{color:red;}
+.sucess{color:green;}
+
+body{width: 80%; margin-left: 10%;}
+
+h1{text-align: center;}
+
+
+
+label{display: inline-block; width: 100px;}
+
